@@ -1,3 +1,5 @@
 *.key
 *.bot
 config.py
+__pycache__
+.vscode

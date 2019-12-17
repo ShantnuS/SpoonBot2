@@ -1,4 +1,4 @@
-# SpoonBot - My first discord bot!
+# SpoonBot2 - The same as SpoonBot but customised for Azure
 
 **A basic discord bot written in python.** 
 
